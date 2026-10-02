@@ -1,117 +1,413 @@
-# 💫 About Me:
-Hi, I’m Rupesh Kumar 👨‍💻<br>A passionate Full Stack Developer who loves building real-world, scalable web applications and continuously learning modern technologies.<br><br>🔭 I’m currently working on MERN stack<br>🤝 I’m looking to collaborate on full-stack web applications<br>💬 Ask me about React, Node.js, Express, MongoDB & Firebase<br>⚡ I love exploring new technologies and building real-world solutions<br>
+# 💫 About Me
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100017639884501) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritesh_chaurasiya11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-kumar-732535221) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/riteshc75786278) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riteshkr75786278@gmail.com) 
+Hi, I'm **Rupesh Kumar Rupak** 👨‍💻
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+**Tech Team Lead & Head @ Adyapan Pvt. Ltd.** | Full Stack Developer | AI & Automation | Cloud & DevOps
 
-## 🚀 Major Projects
+I’m a passionate software developer and technical team leader focused on building **real-world, scalable, production-ready applications**. I work across full-stack development, AI-powered systems, cloud infrastructure, automation, DevOps, and product engineering.
 
-### 1. 🏠 MoveEase – Logistics & Relocation Platform
+🔭 Currently leading technical development at **Adyapan Pvt. Ltd.**
+👨‍💻 Building scalable web platforms, SaaS products, AI systems & automation solutions
+🤖 Exploring AI Agents, LLMs, RAG, LangChain & intelligent automation
+☁️ Working with Cloud, Docker, Kubernetes, CI/CD & modern deployment workflows
+👥 Leading and coordinating technical teams across multiple projects
+🚀 Interested in building products that solve real-world business problems
+💬 Ask me about Full Stack Development, AI, Cloud, DevOps, APIs & System Design
+⚡ I believe in learning by building real-world products
 
-A full-stack logistics marketplace that connects customers with verified movers, featuring real-time distance-based pricing, secure payments, and role-based dashboards.
+---
 
-Tech Stack: React, Node.js, Express.js, MongoDB, JWT, Razorpay, Google Maps APIs, Tailwind CSS, Vercel, Render
+## 👨‍💼 Professional Experience
 
-Key Contributions:
+### 🏢 Adyapan Pvt. Ltd.
 
-Designed and developed a production-ready MERN marketplace with end-to-end booking flow, role-based dashboards (Customer, Mover, Admin), and secure authentication.
+**Tech Team Lead & Head**
 
-Built a dynamic pricing engine using Google Distance Matrix API
-Calculates cost as: Base Price + (Distance × Rate/km).
+Leading the technical team and overseeing product engineering across multiple technology domains including:
 
-Implemented secure payment integration with Razorpay, including backend signature verification and support for both online payment and COD.
+* Full Stack Web Development
+* AI & Automation
+* Cloud & DevOps
+* Backend & API Development
+* Database Architecture
+* CI/CD & Deployment
+* Security & Performance
+* Technical Planning & Architecture
+* Code Review & Quality Assurance
+* Team Management & Task Allocation
+* Production Monitoring & Troubleshooting
 
-Engineered a commission-based system (10% platform fee) with automated earnings distribution and mover wallet (ledger) tracking.
+Working with the team to design, develop, deploy and maintain scalable products and internal systems.
 
-Developed scalable RESTful APIs with JWT-based authentication and role-based access control (RBAC).
+---
 
-Optimized MongoDB schema and queries for efficient booking management and high-performance data retrieval.
+## 🌐 Connect With Me
 
-Structured backend using modular architecture (models, routes, middleware) for maintainability and scalability.
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Rupeshrupak222)
 
-📅 Mar 2025 – Aug 2025
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rupesh-kumar-rupak-bb4b44265/)
 
-🔗 Live: https://mvease.vercel.app
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rupeshrupak609@gmail.com)
 
-📂 GitHub: [https://github.com/riteshkr7578/move-ease
-](https://github.com/riteshkr7578/MoveEase---The-smartway-to-move)
+<!-- Add your social links here when available -->
 
+---
 
+# 💻 Tech Stack
 
-### 2. 🤖 Talk Fusion – Full Stack AI Chat Application
+### 🚀 Frontend
 
-A real-time AI chat platform supporting multi-turn conversations with backend-managed AI workflows.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-##### Tech Stack: React (Vite), Tailwind CSS, Express.js, MongoDB, Groq AI, Axios, Render
+### ⚙️ Backend
 
-##### Key Contributions:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
-Built a full-stack AI chat system supporting real-time, multi-turn conversational flows
+### 🗄️ Database
 
-Integrated LLM APIs with backend-controlled prompt construction and context injection
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge\&logo=firebase\&logoColor=ffcd34)
 
-Engineered backend pipelines for AI response handling, error management, and rate-limit safety
+### 🤖 AI / Automation
 
-Designed a responsive, production-grade UI simulating real-world AI application behavior
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge\&logo=openai\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 
-📅 Oct 2025 – Nov 2025
+* AI Agents
+* LLM Applications
+* RAG Systems
+* AI Automation
+* Prompt Engineering
+* AI API Integration
+* Voice AI & Automation
 
-🔗 Live: https://talk-fusion-chat.vercel.app
+### ☁️ Cloud & DevOps
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge\&logo=github-actions\&logoColor=white)
 
-📂 GitHub: https://github.com/riteshkr7578/talk-fusion
+### 🛠️ Tools & Technologies
 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge\&logo=powershell\&logoColor=white)
 
+---
 
-### 3. ✍️ BlogSphere – Full Stack Content Management Platform
-A feature-rich blogging ecosystem designed for professional content creation, featuring a full editorial workflow and social engagement tools.
+# 🚀 Major Projects
 
-##### Tech Stack: React (Vite), Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Multer, React Quill.
+## 1. 🏫 Adyapan — EdTech & Learning Platform
 
-##### Key Contributions:
+A scalable EdTech ecosystem designed to provide online learning, courses, student management, certifications and technology-driven education services.
 
-Engineered an Editorial Workflow: Developed a complete lifecycle for content management, including draft/publish states and categorization (Tech, Lifestyle, etc.).
+### 🔧 Tech Stack
 
-Integrated Rich Text Processing: Implemented React Quill for professional content creation and Multer for handled featured image uploads.
+**Next.js / React • Node.js • MongoDB • REST APIs • Razorpay • Cloudinary • Vercel • AWS**
 
-Secured User Architecture: Built a robust JWT-based authentication system with role-based authorization for post-management and social interactions.
+### Key Contributions
 
-Developed Engagement Logic: Created backend systems for real-time like/unlike functionality and a moderated comment system with author-only deletion rights.
+* Designed and developed scalable full-stack architecture.
+* Built course discovery and learning workflows.
+* Implemented student dashboards and profile management.
+* Developed course enrollment and purchase workflows.
+* Integrated secure online payment processing.
+* Implemented certificate and examination workflows.
+* Integrated cloud-based media storage.
+* Designed responsive interfaces for desktop, tablet and mobile.
+* Implemented authentication and authorization.
+* Worked on SEO and performance optimization.
+* Designed backend APIs for scalable product workflows.
+* Managed production deployment and infrastructure.
+* Coordinated development across frontend, backend and other technical teams.
 
-Optimized Data Discovery: Designed search and filtering algorithms to allow users to efficiently browse posts by title, content, or category.
+🌐 **Website:** https://adyapan.com
 
-📅 Dec 2025 – Jan 2026
+🏢 **Company:** Adyapan Pvt. Ltd.
 
-🔗 Live: https://blogsphere-psi.vercel.app
+---
 
+## 2. 🤖 Adyapan AI — AI & Automation Platform
 
-📂 GitHub: [https://github.com/riteshkr7578/talk-fusion](https://github.com/riteshkr7578/Blog-Platform-MERN)
+An AI-powered platform focused on intelligent automation, AI agents and productivity-oriented workflows.
 
+### 🔧 Tech Stack
 
+**Next.js • React • Python • FastAPI • OpenAI • LangChain • AI Agents • REST APIs • MongoDB**
 
-### 4. 📝 Task Management System
-A robust full-stack productivity tool engineered with a focus on type safety, relational data integrity, and secure session management.
+### Key Contributions
 
-#### Tech Stack: Next.js (App Router), TypeScript, Tailwind CSS, Prisma ORM, MySQL, Node.js, Express, JWT.
-#### Key Contributions:
-Engineered Type-Safe Architecture: Utilized TypeScript across the entire stack and Prisma ORM to ensure end-to-end type safety and structured data modeling within a MySQL database.
+* Designed AI-powered application architecture.
+* Integrated LLM APIs into production workflows.
+* Developed AI agent-based automation.
+* Worked with prompt engineering and contextual AI workflows.
+* Implemented backend APIs for AI operations.
+* Integrated authentication and third-party services.
+* Designed scalable AI application infrastructure.
+* Worked on GitHub-based authentication and deployment workflows.
 
-Architected Dual-Token Authentication: Implemented a secure JWT system featuring both Access and Refresh tokens, allowing for persistent user sessions and protected API routes.
+🌐 **Platform:** https://ai.adyapan.com
 
-Developed Centralized State Management: Leveraged the React Context API to maintain a global authentication state, enabling dynamic UI transitions and conditional navigation logic.
+---
 
-Built High-Performance CRUD Operations: Optimized task management logic with Prisma, including search and filtering capabilities, and a backend structure ready for large-scale pagination.
+## 3. 📊 Adyapan CRM — EdTech CRM
 
-Designed Responsive UI/UX: Crafted a clean, mobile-first interface using Tailwind CSS, featuring real-time user feedback via toast notifications and protected dashboard views.
+A business-focused CRM platform designed for managing leads, students, courses, sales, payments and team performance.
 
-📅 Jan 2026
+### 🔧 Tech Stack
 
-📂 GitHub: https://github.com/riteshkr7578/Task-Management-System
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**React • Node.js • Express.js • PostgreSQL • Supabase • REST APIs • AWS • Vercel**
 
+### Key Contributions
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* Designed CRM architecture for EdTech operations.
+* Developed lead and student management workflows.
+* Implemented course and enrollment management.
+* Worked on sales and payment workflows.
+* Designed team performance dashboards.
+* Implemented role-based access control.
+* Designed scalable database structures.
+* Developed REST APIs for CRM modules.
+* Worked on employee/team performance tracking.
+* Integrated production deployment infrastructure.
+
+🌐 **CRM:** https://adyapancrm.in
+
+---
+
+## 4. 👥 Adyapan HRMS — Human Resource Management System
+
+An HR management platform designed for centralized employee management, attendance, payroll and performance tracking.
+
+### 🔧 Tech Stack
+
+**React • Node.js • PostgreSQL • Supabase • AWS • REST APIs**
+
+### Key Contributions
+
+* Designed centralized employee master architecture.
+* Developed HR/Admin role-based workflows.
+* Implemented attendance management.
+* Designed monthly payroll and attendance structures.
+* Worked on employee performance tracking.
+* Designed date-wise employee records.
+* Implemented secure administrative access.
+* Built scalable database architecture.
+* Integrated HRMS with broader business workflows.
+
+---
+
+## 5. 🤖 AI Automation & Agent Systems
+
+Developing intelligent automation systems that combine APIs, LLMs, backend services and business workflows.
+
+### Areas of Work
+
+* AI Agents
+* LLM Applications
+* RAG
+* Prompt Engineering
+* AI Automation
+* Voice AI
+* API Automation
+* Workflow Automation
+* Backend AI Services
+* Business Process Automation
+
+### Technologies
+
+**Python • FastAPI • OpenAI • LangChain • LangGraph • REST APIs • MongoDB • Cloud Services**
+
+---
+
+## 6. ☁️ Cloud Automation using Python / Boto3
+
+A cloud automation project focused on automating infrastructure and cloud service operations using Python.
+
+### 🔧 Tech Stack
+
+**Python • AWS • Boto3 • Linux • Automation**
+
+### Key Contributions
+
+* Automated AWS infrastructure operations.
+* Developed Python-based cloud automation scripts.
+* Worked with AWS service APIs using Boto3.
+* Automated repetitive cloud management tasks.
+* Designed reusable automation workflows.
+* Worked with cloud security and resource management concepts.
+
+---
+
+## 7. 🐳 Containerized Applications & Microservices
+
+Worked on containerization and microservice-based application architecture.
+
+### 🔧 Technologies
+
+**Docker • Kubernetes • Linux • Node.js • Python • REST APIs**
+
+### Key Contributions
+
+* Containerized backend applications.
+* Designed Docker-based development environments.
+* Worked with service-to-service communication.
+* Created containerized microservice workflows.
+* Worked with Kubernetes deployments and cluster management.
+* Implemented scalable deployment patterns.
+
+---
+
+## 8. ⚙️ CI/CD Automation
+
+Worked on automated software delivery pipelines using modern DevOps tools.
+
+### 🔧 Technologies
+
+**Jenkins • Docker • GitHub • Linux • Flask • CI/CD**
+
+### Key Contributions
+
+* Designed CI/CD pipelines.
+* Automated application builds and deployments.
+* Integrated Git-based development workflows.
+* Containerized applications for deployment.
+* Worked with Jenkins automation.
+* Implemented repeatable deployment processes.
+
+---
+
+# 👨‍💻 What I Work On
+
+```text
+Full Stack Development
+        ↓
+Backend & API Engineering
+        ↓
+AI / LLM / Agent Systems
+        ↓
+Cloud & DevOps
+        ↓
+CI/CD & Automation
+        ↓
+Product Engineering
+        ↓
+Technical Team Leadership
+```
+
+---
+
+# 🧠 Areas of Interest
+
+* Full Stack Development
+* Software Architecture
+* AI Engineering
+* AI Agents
+* Generative AI
+* LLM Applications
+* RAG Systems
+* Cloud Computing
+* DevOps
+* Kubernetes
+* Docker
+* CI/CD
+* API Development
+* SaaS Products
+* EdTech
+* Automation
+* Scalable System Design
+
+---
+
+# 🏆 Achievements & Experience
+
+* 🏢 **Tech Team Lead & Head — Adyapan Pvt. Ltd.**
+* 👥 Leading technical teams and coordinating multiple software projects
+* 🚀 Worked on production-oriented web applications
+* 🤖 Built and explored AI-powered applications and automation
+* ☁️ Hands-on experience with cloud and DevOps technologies
+* 🏆 Participated in multiple hackathons and technology competitions
+* 🌐 Worked on live web platforms and production deployments
+* 📚 Experience across Full Stack, Cloud, AI and DevOps domains
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Rupeshrupak222\&theme=radical\&hide_border=false\&include_all_commits=true\&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Rupeshrupak222\&theme=radical\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupeshrupak222\&theme=radical\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Rupeshrupak222\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+
+---
+
+# 📊 Contribution Graph
+
+[![Rupesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rupeshrupak222\&theme=react-dark)](https://github.com/Rupeshrupak222)
+
+---
+
+# 💭 Developer Philosophy
+
+> **"Build real products. Solve real problems. Keep learning. Keep shipping."**
+
+I believe technology becomes valuable when it solves meaningful problems, improves workflows and creates measurable impact.
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm open to collaborating on:
+
+* Full Stack Applications
+* AI / LLM Projects
+* AI Agent Systems
+* SaaS Products
+* Cloud & DevOps Projects
+* Automation Solutions
+* Open Source Projects
+* Real-world Product Development
+
+📩 **Email:** [rupeshkr7578@gmail.com](mailto:rupeshkr7578@gmail.com)
+
+🔗 **GitHub:** https://github.com/Rupeshrupak222
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/rupesh-kumar-rupak-bb4b44265/
+
+---
+
+## ⚡ Fun Fact
+
+I don't just build applications — I enjoy turning **real-world problems into scalable technology solutions.** 🚀
+
+---
+
+<!--
+Profile maintained by Rupesh Kumar Rupak
+Tech Team Lead & Head @ Adyapan Pvt. Ltd.
+-->
